@@ -14,3 +14,8 @@ MongoDB: Stores the incoming data.
 
 ## Hardware Components
 Microcontroller (Cytron Maker Feather AIoT S3), Infrared Sensor, Rain Sensor, DHT11 Sensor.
+
+
+The VM Instance created in GCP:
+![image](https://github.com/weiru00/357_Assg2/assets/88423416/4c94343b-c0a8-434e-8e19-2e06e77ccb7f)
+
