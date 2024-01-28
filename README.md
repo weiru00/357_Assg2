@@ -13,7 +13,7 @@ Google Cloud VM Instance: Hosts the MQTT broker and processes incoming data for 
 MongoDB: Stores the incoming data. 
 
 ## Hardware Components
-Microcontroller (Cytron Maker Feather AIoT S3), Infrared Sensor, Rain Sensor, DHT11 Sensor.
+Microcontroller (Cytron Maker Feather AIoT S3), Infrared Sensor, Rain Sensor, DHT11 Sensor, LED, Servo Motor, Relay, Buzzer, Breadboard, DC motor with fan blade, Jumpers.
 
 
 The VM Instance created in GCP:
